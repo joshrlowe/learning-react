@@ -1,1 +1,6 @@
+.DS_Store
 .git-credentials
+dist
+dist-ssr
+node_modules
+*.local
