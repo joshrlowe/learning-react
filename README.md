@@ -9,3 +9,4 @@ The purpose of this repository is to facilitate learning Node.js and its various
 | 3           | React Essentials - Components, JSX, Props, State & More | [Click Here](./3-react-essentials/)           |
 | 4           | React Essentials - Deep Dive                            | [Click Here](./4-react-essentials-deep-dive/) |
 | 5           | React Essentials - Practice Project                     | [Click Here](./5-practice-project/)           |
+| 6           | Styling React Components                                | [Click Here](./6-styling-react-components/)   |
