@@ -11,3 +11,4 @@ The purpose of this repository is to facilitate learning Node.js and its various
 | 5           | React Essentials - Practice Project                     | [Click Here](./5-practice-project/)           |
 | 6           | Styling React Components                                | [Click Here](./6-styling-react-components/)   |
 | 7           | Debugging React Apps                                    | [Click Here](./7-debugging/)                  |
+| 8           | Working with Refs & Portals                             | [Click Here](./8-refs-portals/)               |
