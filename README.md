@@ -13,3 +13,4 @@ The purpose of this repository is to facilitate learning Node.js and its various
 | 7           | Debugging React Apps                                    | [Click Here](./7-debugging/)                  |
 | 8           | Working with Refs & Portals                             | [Click Here](./8-refs-portals/)               |
 | 9           | Practice Project: Project Management App                | [Click Here](./9-project-management-app/)     |
+| 10          | React's Context API & useReducer                        | [Click Here](./10-advanced-state-management/) |
