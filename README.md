@@ -15,3 +15,4 @@ The purpose of this repository is to facilitate learning Node.js and its various
 | 9           | Practice Project: Project Management App                  | [Click Here](./9-project-management-app/)     |
 | 10          | React's Context API & useReducer                          | [Click Here](./10-advanced-state-management/) |
 | 11          | Handling Side Effects & Working with the useEffect() Hook | [Click Here](./11-useEffect/)                 |
+| 12          | Practice Project: Building a Quiz App                     | [Click Here](./12-quiz-app/)                  |
